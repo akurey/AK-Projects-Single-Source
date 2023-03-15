@@ -6,23 +6,29 @@ For each project you can expect to see the project description, requirements, te
 ## Each project should have its own md file with the following structure:
 
 ### [Project Name]
+
 ### Description
+Project description
 - [Message] <br />
 [text]
 
 ### Requirements
+Project requirements
 - [Message] <br />
   [text]
 
 ### Technical Notes
+Project technical notes
 - [Message] <br />
   [text]
 
 ### Scope
+Project scope and timeline
 - [Message] <br />
   [text]
 
 ### Additional Notes
+Project additional notes
 - [Message] <br />
   [text]
 
