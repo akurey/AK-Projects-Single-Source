@@ -48,18 +48,19 @@ When required add an architecture diagram of the project here.
 | [Add team member name here.] | [Add team member position here.] | [Add team member contact buddy here.] |
 | [Add team member name here.] | [Add team member position here.] | [Add team member contact buddy here.] |
 
-## requirement
+## Requirement
 
 log of requirements changes
 
-## technical
+## Technical
 
 log of technical decisions
 
-## scope
+## Scope
 
 log of decisions reducing or adding time to the scope
 
-## notes
+## Notes
 
 log of project notes 
+
