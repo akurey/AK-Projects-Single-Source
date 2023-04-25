@@ -52,6 +52,11 @@ When required add an architecture diagram of the project here.
 
 log of requirements changes
 
+* Kafay Ng 
+1682397946189
+
+ Notes: Nuñez shared a link
+
 ## Technical
 
 log of technical decisions
