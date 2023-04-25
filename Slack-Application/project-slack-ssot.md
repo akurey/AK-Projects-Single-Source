@@ -56,6 +56,8 @@ log of requirements changes
 
 log of technical decisions
 
+Added New Text Here! 
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
