@@ -62,6 +62,8 @@ Added New Text Here!
 
 log of decisions reducing or adding time to the scope
 
+Added New Text Here! 
+
 ## Notes
 
 log of project notes 
