@@ -57,17 +57,6 @@ log of requirements changes
 Message: Soledad Kopper Kafay Ng ya estoy satisfecho con esta plantila <https://github.com/akurey/aktech/blob/master/project-slack-ssot.md>
 
 Notes: Nuñez shared a link
-* Kafay Ng [2023-04-26T20:54:56.415Z]
-
-Message: Claro digamos que tendría este formato
-```* Buenos días, una consulta
-Con respecto al update md file se había pensado que tuviera este formato [Wed, 05 Apr 2023 09:11:40] 
-
-[Additional Notes]```
-Algo así, pero queremos guardar de quien fue la propuesta? o quien mando el update?
-O simplemente que se vaya agregando y ya? :thinking_face:  Lo digo en caso de que se quiera saber quien fue el que hizo la propuesta o hizo push al md file
-
-Notes: New Requirement
 
 ## Technical
 
