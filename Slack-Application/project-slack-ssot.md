@@ -52,6 +52,12 @@ When required add an architecture diagram of the project here.
 
 log of requirements changes
 
+* Kafay Ng [2023-04-26T20:53:32.225Z]
+
+Message: Soledad Kopper Kafay Ng ya estoy satisfecho con esta plantila <https://github.com/akurey/aktech/blob/master/project-slack-ssot.md>
+
+Notes: Nuñez shared a link
+
 ## Technical
 
 log of technical decisions
