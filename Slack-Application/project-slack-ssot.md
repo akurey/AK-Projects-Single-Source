@@ -65,6 +65,14 @@ log of technical decisions
 ## Scope
 
 log of decisions reducing or adding time to the scope
+* Kafay Ng [2023-04-26T20:54:16.174Z]
+
+Message: Buenas tardes, unas notas sobre la reu que acabamos de tener entre Rodrigo Nunez y yo
+• Manejo de token para git: se va a utilizar el método de crear un token con un usuario nuevo (dependiendo del cliente) o que un integrante creé el token. Este token tiene la posibilidad de no experirar entonces quedará a disposición del proyecto/cliente
+• Manejo de los repositorios: los repositorios van a tener únicamente los md files del proyecto con la información (scopes, requirements, teams, etc…) por lo que se van a clonar los repositorios a nivel de codigo y se van a mantener en memoria en vez de borrarlos una vez terminado el proceso de edición -&gt; git add -&gt; git commit -&gt; git push -&gt; merge
+• Buscar un módulo para la escritura de archivos que maneje la inserción en lugares específicos de un archivo para poder evitar tener un buffer de un antes del string a insertar y un después del string a insertar y hacerles join a un solo string grande.
+
+Notes: Kafay explained the new scope after meeting with Nuñez
 
 ## Notes
 
