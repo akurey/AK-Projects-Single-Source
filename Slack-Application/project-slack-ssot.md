@@ -91,6 +91,12 @@ Notes: Update
 Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have free breakfast, ice cream, tacos, and two amazing workshops :fire: Remember to sign up: <http://go.akurey.com/attendance|go.akurey.com/attendance> :blue_heart:
 
 
+#### **Kafay Ng [2023-05-11T17:03:45.624Z]** 
+
+Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have free breakfast, ice cream, tacos, and two amazing workshops :fire: Remember to sign up: <http://go.akurey.com/attendance|go.akurey.com/attendance> :blue_heart:
+
+Notes: Marcela's Ad
+
 ## Technical
 
 log of technical decisions
