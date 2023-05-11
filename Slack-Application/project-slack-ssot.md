@@ -161,6 +161,14 @@ Would anyone be interested? :book::books:
 
 Notes: Montse's Ad
 
+#### **Kafay Ng [2023-05-11T19:00:46.304Z]** 
+
+Message: I would like to make a reading club mainly with books for business leaders and others.
+Would anyone be interested? :book::books:
+<#C012A54JPBQ|books>
+
+Notes: Montse's Ad
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
