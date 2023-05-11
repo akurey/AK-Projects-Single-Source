@@ -150,6 +150,12 @@ Message: Lo que pasa es que la versión con la que se está haciendo build local
 Notes: Sol's update about slack app issue
 Push sent  at: 2:45pm
 
+#### **Kafay Ng [2023-05-11T20:54:21.923Z]** 
+
+Message: Pero por alguna razón pareciera que mi token de git expira, entonces ahorita en unos 5mn les hago otro spam
+
+Notes: Update at 2:54pm
+
 ## Technical
 
 log of technical decisions
