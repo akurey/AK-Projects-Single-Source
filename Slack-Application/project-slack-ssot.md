@@ -143,6 +143,13 @@ Veo que podemos hacer el bypass del validation que le comente ayer con el token 
 Notes: Kafa'ys update about slack app
 Push sent  at: 2:37pm
 
+#### **Kafay Ng [2023-05-11T20:45:47.738Z]** 
+
+Message: Lo que pasa es que la versión con la que se está haciendo build localmente está diseñado para esa arquitectura pero cuando se sube a serverless, tiene otra arquitectura, entonces  lo que me dijo Fer es que se tendría que instalar el cli al serverless para que funcione porque se está usando el modulo nodegit para la escritura, igual estoy esperando a ver que me dice Bryan  porque puede que él tenga otro approach
+
+Notes: Sol's update about slack app issue
+Push sent  at: 2:45pm
+
 ## Technical
 
 log of technical decisions
