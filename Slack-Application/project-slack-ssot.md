@@ -212,6 +212,13 @@ Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have 
 
 Notes: Update
 
+#### **Kafay Ng [2023-05-11T20:23:27.830Z]** 
+
+Message: Buenos días, bastante bien
+Veo que podemos hacer el bypass del validation que le comente ayer con el token ya generado, hoy me estoy dedicando a ya mover toda la implementación de nodegit a octokit que es lo que se usa el github api
+
+Notes: update
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
