@@ -86,6 +86,11 @@ Message: <https://github.com/akurey/AK-Slack-App/blob/main/README.md>
 
 Notes: Update
 
+#### **Kafay Ng [2023-05-11T16:41:34.311Z]** 
+
+Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have free breakfast, ice cream, tacos, and two amazing workshops :fire: Remember to sign up: <http://go.akurey.com/attendance|go.akurey.com/attendance> :blue_heart:
+
+
 ## Technical
 
 log of technical decisions
