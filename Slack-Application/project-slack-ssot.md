@@ -97,6 +97,14 @@ Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have 
 
 Notes: Marcela's Ad
 
+#### **Kafay Ng [2023-05-11T17:25:10.300Z]** 
+
+Message: I would like to make a reading club mainly with books for business leaders and others.
+Would anyone be interested? :book::books:
+<#C012A54JPBQ|books>
+
+Notes: Montse's Ad
+
 ## Technical
 
 log of technical decisions
