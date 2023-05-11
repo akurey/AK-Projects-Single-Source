@@ -105,6 +105,13 @@ Would anyone be interested? :book::books:
 
 Notes: Montse's Ad
 
+#### **Kafay Ng [2023-05-11T17:31:04.495Z]** 
+
+Message: <!here> La otra semana viene Fofo(rodolfo cordero) desde Argentina después de varios años. Entonces los invito a ir a la oficina si tienen la oportunidad, para que vacilemos todos y pasemos el día bonito :slightly_smiling_face:
+Por ahí les pasé invite para que les quede de reminder. Como siempre es opcional, pero espero verlos!
+
+Notes: Jose's announcement regarding fofo
+
 ## Technical
 
 log of technical decisions
