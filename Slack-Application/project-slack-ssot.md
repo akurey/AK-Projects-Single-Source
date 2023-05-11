@@ -153,6 +153,14 @@ Message: Cree estos dos tickets <https://ak-slack-app.atlassian.net/browse/ASA-5
 
 Notes: Kafay's MRs
 
+#### **Kafay Ng [2023-05-11T18:58:25.367Z]** 
+
+Message: I would like to make a reading club mainly with books for business leaders and others.
+Would anyone be interested? :book::books:
+<#C012A54JPBQ|books>
+
+Notes: Montse's Ad
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
