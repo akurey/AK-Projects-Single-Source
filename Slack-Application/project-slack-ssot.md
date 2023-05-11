@@ -140,6 +140,12 @@ Pero que hay alternativas como lazyloading
 
 Notes: Kafay's issue
 
+#### **Kafay Ng [2023-05-11T18:42:27.747Z]** 
+
+Message: Cree estos dos tickets <https://ak-slack-app.atlassian.net/browse/ASA-51> y <https://ak-slack-app.atlassian.net/browse/ASA-50> (este ya tiene MR)
+
+Notes: Kafay's MRs
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
