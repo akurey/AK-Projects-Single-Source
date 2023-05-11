@@ -112,6 +112,14 @@ Por ahí les pasé invite para que les quede de reminder. Como siempre es opcion
 
 Notes: Jose's announcement regarding fofo
 
+#### **Kafay Ng [2023-05-11T17:35:19.784Z]** 
+
+Message: I would like to make a reading club mainly with books for business leaders and others.
+Would anyone be interested? :book::books:
+<#C012A54JPBQ|books>
+
+Notes: Montse's Ad
+
 ## Technical
 
 log of technical decisions
