@@ -132,6 +132,14 @@ Notes: Montse's Ad
 
 log of technical decisions
 
+#### **Kafay Ng [2023-05-11T18:39:14.484Z]** 
+
+Message: Estoy viendo que no llega, hace el update al git pero no manda el mensaje
+Pero estoy viendo que podría ser un issue con lambda <https://github.com/slackapi/bolt-js/issues/1299>
+Pero que hay alternativas como lazyloading
+
+Notes: Kafay's issue
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
