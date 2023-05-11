@@ -188,6 +188,12 @@ Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have 
 
 Notes: Update
 
+#### **Kafay Ng [2023-05-11T19:23:17.308Z]** 
+
+Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have free breakfast, ice cream, tacos, and two amazing workshops :fire: Remember to sign up: <http://go.akurey.com/attendance|go.akurey.com/attendance> :blue_heart:
+
+Notes: Update
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
