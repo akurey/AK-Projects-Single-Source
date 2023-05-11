@@ -135,6 +135,14 @@ Por ahí les pasé invite para que les quede de reminder. Como siempre es opcion
 
 Notes: Jose's invitation to fofo coming to CR
 
+#### **Kafay Ng [2023-05-11T20:37:53.756Z]** 
+
+Message: Buenos días, bastante bien
+Veo que podemos hacer el bypass del validation que le comente ayer con el token ya generado, hoy me estoy dedicando a ya mover toda la implementación de nodegit a octokit que es lo que se usa el github api
+
+Notes: Kafa'ys update about slack app
+Push sent  at: 2:37pm
+
 ## Technical
 
 log of technical decisions
