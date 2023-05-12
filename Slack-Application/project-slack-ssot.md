@@ -162,6 +162,13 @@ Message: cat
 
 Notes: Holi
 
+#### **Ixel Castro Richard [2023-05-12T20:41:42.226Z]** 
+
+Message: Slack procesa por eventos de clicks a diferentes componentes y no por form
+Entonces lo que esta pasando es que ahí hubo un post de evento tipo dropdown y select que en realidad no nos sirve pero slack siempre lo envia como evento, el error es que no se esta haciendo nada con ese evento
+
+Notes: Update
+
 ## Technical
 
 log of technical decisions
