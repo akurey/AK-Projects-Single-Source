@@ -156,6 +156,12 @@ Message: Pero por alguna razón pareciera que mi token de git expira, entonces a
 
 Notes: Update at 2:54pm
 
+#### **Jose Andrés Barboza González [2023-05-12T20:34:03.624Z]** 
+
+Message: cat
+
+Notes: Holi
+
 ## Technical
 
 log of technical decisions
