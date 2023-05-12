@@ -169,6 +169,12 @@ Entonces lo que esta pasando es que ahí hubo un post de evento tipo dropdown y 
 
 Notes: Update
 
+#### **Ixel Castro Richard [2023-05-12T21:28:46.650Z]** 
+
+Message: <https://github.com/akurey/AK-Slack-App#add-akurey-source-application-to-the-channels-on-slack>
+
+Notes: Update
+
 ## Technical
 
 log of technical decisions
