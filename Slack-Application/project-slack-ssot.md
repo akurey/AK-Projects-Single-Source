@@ -256,3 +256,10 @@ Notes: Kafay explained the new scope after meeting with Nuñez
 
 log of project notes 
 
+
+#### **Kafay Ng [2023-05-12T15:24:25.127Z]** 
+
+Message: <!here> La otra semana viene Fofo(rodolfo cordero) desde Argentina después de varios años. Entonces los invito a ir a la oficina si tienen la oportunidad, para que vacilemos todos y pasemos el día bonito :slightly_smiling_face:
+Por ahí les pasé invite para que les quede de reminder. Como siempre es opcional, pero espero verlos!
+
+Notes: Jose's invitation for fofo
