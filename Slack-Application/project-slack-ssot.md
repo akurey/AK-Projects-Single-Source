@@ -301,6 +301,12 @@ Message: Buenas tardes, unas notas sobre la reu que acabamos de tener entre Rodr
 
 Notes: Kafay explained the new scope after meeting with Nuñez
 
+#### **Ixel Castro Richard [2023-05-12T21:30:18.955Z]** 
+
+Message: <https://github.com/akurey/AK-Slack-App#add-akurey-source-application-to-the-channels-on-slack>
+
+Notes: Update
+
 ## Notes
 
 log of project notes 
