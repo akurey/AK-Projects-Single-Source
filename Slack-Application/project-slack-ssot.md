@@ -248,6 +248,13 @@ Message: GM!
  :no_entry_sign: B: None
 
 
+#### **Kafay Ng [2023-05-12T16:39:49.441Z]** 
+
+Message: Hola, Kafay, todo bien?
+Sol me mandó a hablar con usted para que me ayudara con cómo voy a testear la app de Slack en la que estaban trabajando
+
+Notes: Update test
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
