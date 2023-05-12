@@ -240,6 +240,14 @@ Veo que podemos hacer el bypass del validation que le comente ayer con el token 
 
 Notes: update
 
+#### **Kafay Ng [2023-05-12T16:17:48.674Z]** 
+
+Message: GM!
+ :hourglass:️ Y: reviewing FWD program
+ :hourglass_flowing_sand: T: Reviewing FWD program, 1:1 and I'll be off the afternoon
+ :no_entry_sign: B: None
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
