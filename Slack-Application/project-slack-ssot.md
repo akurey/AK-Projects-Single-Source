@@ -258,6 +258,13 @@ Notes: Update test
 #### **Ixel Castro Richard [2023-05-12T20:11:17.877Z]** 
 Notes: Correct way of getting notifications
 
+#### **Ixel Castro Richard [2023-05-12T20:32:14.006Z]** 
+
+Message: Slack procesa por eventos de clicks a diferentes componentes y no por form
+Entonces lo que esta pasando es que ahí hubo un post de evento tipo dropdown y select que en realidad no nos sirve pero slack siempre lo envia como evento, el error es que no se esta haciendo nada con ese evento
+
+Notes: Technical Issue
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
