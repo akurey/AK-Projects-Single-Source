@@ -278,6 +278,11 @@ Entonces lo que esta pasando es que ahí hubo un post de evento tipo dropdown y 
 
 Notes: Technical Issue
 
+#### **Rodrigo Nunez [2023-05-12T21:23:53.810Z]** 
+
+Message: Hola buenos días, para ya probarlos con otros proyectos sería modificar el data.json que esta en el repo y si se quiere que el chatbot mande mensajes a channels se tiene que agregar a los channels. En el readme esta más información de como hacerle setup
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
