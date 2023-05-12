@@ -255,6 +255,9 @@ Sol me mandó a hablar con usted para que me ayudara con cómo voy a testear la 
 
 Notes: Update test
 
+#### **Ixel Castro Richard [2023-05-12T20:11:17.877Z]** 
+Notes: Correct way of getting notifications
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
