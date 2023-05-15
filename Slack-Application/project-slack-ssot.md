@@ -289,6 +289,11 @@ Notes: Technical Issue
 Message: Hola buenos días, para ya probarlos con otros proyectos sería modificar el data.json que esta en el repo y si se quiere que el chatbot mande mensajes a channels se tiene que agregar a los channels. En el readme esta más información de como hacerle setup
 
 
+#### **Kafay Ng [2023-05-15T17:41:02.147Z]** 
+
+Message: Recordé que tenemos el alias que se creo para aws <mailto:slack-poc-aws@akurey.com|slack-poc-aws@akurey.com>
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
