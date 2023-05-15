@@ -294,6 +294,15 @@ Message: Hola buenos días, para ya probarlos con otros proyectos sería modific
 Message: Recordé que tenemos el alias que se creo para aws <mailto:slack-poc-aws@akurey.com|slack-poc-aws@akurey.com>
 
 
+#### **Kafay Ng [2023-05-15T17:52:08.983Z]** 
+
+Message: GM! Sorry I couldn't, had another meeting
+ :hourglass:️ Y: Demo and reviewing the program
+ :hourglass_flowing_sand: T: I'll be having a couple of meetings during the morning then I'll continue reviewing the program and creating some figma files for the course
+ :no_entry_sign: B: None
+
+Notes: Status Update
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
