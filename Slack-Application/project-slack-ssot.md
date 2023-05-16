@@ -388,6 +388,12 @@ Thank you very much :blue_heart:
 “hands that give will never be empty :joy:”
 
 
+#### **Kafay Ng [2023-05-16T22:02:56.022Z]** 
+
+Message: Ya vi lo que pasa en mobile, el no agarra valores
+Voy a tirar primero ese update del form a un ticket que voy a crear
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
