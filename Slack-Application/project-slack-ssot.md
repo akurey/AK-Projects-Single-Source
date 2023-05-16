@@ -309,6 +309,15 @@ Message: <https://files.slack.com/files-tmb/T2DPLE8AY-F0588PY7N3A-307b69ec49/int
 
 Notes: TEST QA
 
+#### **Kafay Ng [2023-05-16T14:41:30.197Z]** 
+
+Message: GM! Sorry I couldn't, had another meeting
+ :hourglass:️ Y: Demo and reviewing the program
+ :hourglass_flowing_sand: T: I'll be having a couple of meetings during the morning then I'll continue reviewing the program and creating some figma files for the course
+ :no_entry_sign: B: None
+
+Notes: TEST Prod
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
