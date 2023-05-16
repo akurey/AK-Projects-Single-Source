@@ -415,6 +415,16 @@ Para no tirar yo el deploy con mi `data.json` diferente al tuyo
 Message: Hola 
 
 
+#### **Kafay Ng [2023-05-16T22:56:04.196Z]** 
+
+Message: Hello everyone! We are collecting money for our first face-to-face volunteering of the year :moneybag: Help us bring color to Fundación Bandera Blanca by contributing to our campaign for painting materials.
+We need 100,000 colones to buy all the materials. If you want to contribute please do a *sinpe movil* to the number *8765-4392*  with your name and the word “volunteer” for example, Wong-Volunteer.
+Thank you very much :blue_heart:
+
+“hands that give will never be empty :joy:”
+
+Notes: Sent through IOS
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
