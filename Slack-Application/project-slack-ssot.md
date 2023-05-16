@@ -384,6 +384,12 @@ Message: Sí
 
 Notes: QA Test
 
+#### **Ixel Castro Richard [2023-05-16T21:43:50.210Z]** 
+
+Message: Slack Test
+
+Notes: Update
+
 ## Notes
 
 log of project notes 
