@@ -359,6 +359,11 @@ Notes: Update
 Message: Y a mí me llegan las notificaciones, pero al channel no
 
 
+#### **Kafay Ng [2023-05-16T21:51:18.166Z]** 
+
+Message: sabe como loggear usando el aws cli?
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
