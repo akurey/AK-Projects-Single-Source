@@ -333,6 +333,11 @@ Notes: TEST Prod
 Message: nada mas sad que un restaurante que uno recomienda quede mal
 
 
+#### **Kafay Ng [2023-05-16T21:35:55.427Z]** 
+
+Message: Configuraste el aws config?
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
