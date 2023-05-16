@@ -364,6 +364,11 @@ Message: Y a mí me llegan las notificaciones, pero al channel no
 Message: sabe como loggear usando el aws cli?
 
 
+#### **Kafay Ng [2023-05-16T21:54:11.980Z]** 
+
+Message: I've found this site that might be useful for some of you :stuck_out_tongue: <https://endoflife.date/python>
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
