@@ -369,6 +369,11 @@ Message: sabe como loggear usando el aws cli?
 Message: I've found this site that might be useful for some of you :stuck_out_tongue: <https://endoflife.date/python>
 
 
+#### **Kafay Ng [2023-05-16T21:55:45.198Z]** 
+
+Message: Lo puedo reemplazar por otro que no tiene el listener pero se vería así, con el label arriba en vez de que sea al lado
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
