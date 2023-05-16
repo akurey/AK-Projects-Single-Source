@@ -379,6 +379,15 @@ Message: Lo puedo reemplazar por otro que no tiene el listener pero se vería as
 Message: Lo puedo reemplazar por otro que no tiene el listener pero se vería así, con el label arriba en vez de que sea al lado
 
 
+#### **Kafay Ng [2023-05-16T22:00:24.458Z]** 
+
+Message: Hello everyone! We are collecting money for our first face-to-face volunteering of the year :moneybag: Help us bring color to Fundación Bandera Blanca by contributing to our campaign for painting materials.
+We need 100,000 colones to buy all the materials. If you want to contribute please do a *sinpe movil* to the number *8765-4392*  with your name and the word “volunteer” for example, Wong-Volunteer.
+Thank you very much :blue_heart:
+
+“hands that give will never be empty :joy:”
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
