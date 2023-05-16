@@ -346,6 +346,12 @@ Message: <https://github.com/akurey/AK-Slack-App#add-akurey-source-application-t
 
 Notes: Update
 
+#### **Jose Andrés Barboza González [2023-05-16T20:38:21.228Z]** 
+
+Message: y ojo la vara
+
+Notes: Holi
+
 ## Notes
 
 log of project notes 
