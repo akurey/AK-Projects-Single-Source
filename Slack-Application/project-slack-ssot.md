@@ -338,6 +338,11 @@ Message: nada mas sad que un restaurante que uno recomienda quede mal
 Message: Configuraste el aws config?
 
 
+#### **Kafay Ng [2023-05-16T21:36:29.288Z]** 
+
+Message: Configuraste el aws config?
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
