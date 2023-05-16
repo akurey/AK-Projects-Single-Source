@@ -400,6 +400,11 @@ Message: Te aviso cuando se haga merge de ese ticket, y vos le haces el merge lo
 Para no tirar yo el deploy con mi `data.json` diferente al tuyo
 
 
+#### **Kafay Ng [2023-05-16T22:24:22.952Z]** 
+
+Message: Hola 
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
