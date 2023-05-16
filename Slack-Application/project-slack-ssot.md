@@ -348,6 +348,12 @@ Message: Configuraste el aws config?
 Message: Configuraste el aws config?
 
 
+#### **Ixel Castro Richard [2023-05-16T21:39:09.284Z]** 
+
+Message: Slack Test
+
+Notes: Update
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
