@@ -328,6 +328,11 @@ Message: GM! Sorry I couldn't, had another meeting
 
 Notes: TEST Prod
 
+#### **Kafay Ng [2023-05-16T21:31:58.339Z]** 
+
+Message: nada mas sad que un restaurante que uno recomienda quede mal
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
