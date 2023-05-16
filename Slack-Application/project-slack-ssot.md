@@ -343,6 +343,11 @@ Message: Configuraste el aws config?
 Message: Configuraste el aws config?
 
 
+#### **Kafay Ng [2023-05-16T21:38:45.668Z]** 
+
+Message: Configuraste el aws config?
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
