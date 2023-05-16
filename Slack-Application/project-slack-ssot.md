@@ -394,6 +394,12 @@ Message: Ya vi lo que pasa en mobile, el no agarra valores
 Voy a tirar primero ese update del form a un ticket que voy a crear
 
 
+#### **Kafay Ng [2023-05-16T22:18:53.902Z]** 
+
+Message: Te aviso cuando se haga merge de ese ticket, y vos le haces el merge local?
+Para no tirar yo el deploy con mi `data.json` diferente al tuyo
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
