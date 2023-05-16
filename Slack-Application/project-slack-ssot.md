@@ -354,6 +354,11 @@ Message: Slack Test
 
 Notes: Update
 
+#### **Kafay Ng [2023-05-16T21:48:49.015Z]** 
+
+Message: Y a mí me llegan las notificaciones, pero al channel no
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
