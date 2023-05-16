@@ -303,6 +303,12 @@ Message: GM! Sorry I couldn't, had another meeting
 
 Notes: Status Update
 
+#### **Kafay Ng [2023-05-16T14:36:20.188Z]** 
+
+Message: <https://files.slack.com/files-tmb/T2DPLE8AY-F0588PY7N3A-307b69ec49/internal_message_64.png>
+
+Notes: TEST QA
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
