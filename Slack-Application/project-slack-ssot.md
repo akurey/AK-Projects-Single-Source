@@ -352,6 +352,12 @@ Message: y ojo la vara
 
 Notes: Holi
 
+#### **Ixel Castro Richard [2023-05-16T21:30:07.084Z]** 
+
+Message: Sí
+
+Notes: QA Test
+
 ## Notes
 
 log of project notes 
