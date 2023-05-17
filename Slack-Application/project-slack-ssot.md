@@ -431,6 +431,11 @@ Message: Slack Test
 
 Notes: Update
 
+#### **Kafay Ng [2023-05-17T04:43:24.623Z]** 
+
+Message: fallback text, check update in SSOTFile
+
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
