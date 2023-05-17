@@ -454,6 +454,15 @@ Notes: Update
 Message: fallback text, check update in SSOTFile
 
 
+#### **Kafay Ng [2023-05-17T14:57:28.980Z]** 
+
+Message: GM! Sorry I couldn't  join:disappointed:
+ :hourglass:️ Y: I was working on Patch, post and put method, I also saw some features about Azure and its cloud
+ :hourglass_flowing_sand: T: I'll work on authentication methods and also 3rd party integration (understanding how it works), continue to look at Azure services and pick up the animal project tasks
+ :no_entry_sign: B: None
+
+Notes: QA Channel testing3
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
