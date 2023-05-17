@@ -84,6 +84,12 @@ Message: Por ahora prueba este branch <https://github.com/akurey/AK-Projects-Sin
 
 Notes: New branch for testing
 
+#### **Ixel Castro Richard [2023-05-17T18:23:44.866Z]** 
+
+Message: Sip, desde mobile debería de funcionar
+
+Notes: Mobile test
+
 ## Notes
 
 log of project notes
