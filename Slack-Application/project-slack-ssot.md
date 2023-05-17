@@ -204,6 +204,15 @@ Message: GM! Sorry I couldn't  join:disappointed:
 
 Notes: QA Channel testing
 
+#### **Kafay Ng [2023-05-17T14:56:05.228Z]** 
+
+Message: GM! Sorry I couldn't  join:disappointed:
+ :hourglass:️ Y: I was working on Patch, post and put method, I also saw some features about Azure and its cloud
+ :hourglass_flowing_sand: T: I'll work on authentication methods and also 3rd party integration (understanding how it works), continue to look at Azure services and pick up the animal project tasks
+ :no_entry_sign: B: None
+
+Notes: QA Channel testing2
+
 ## Technical
 
 log of technical decisions
