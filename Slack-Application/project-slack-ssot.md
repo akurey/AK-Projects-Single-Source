@@ -66,6 +66,12 @@ Message: Me avisas
 
 Notes: Branch Test
 
+#### **Ixel Castro Richard [2023-05-17T17:03:30.086Z]** 
+
+Message: Por ahora prueba este branch <https://github.com/akurey/AK-Projects-Single-Source/blob/QA/Slack-Application/project-slack-ssot.md>
+
+Notes: New branch for testing
+
 ## Notes
 
 log of project notes
