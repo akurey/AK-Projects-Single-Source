@@ -495,3 +495,9 @@ Notes: Update
 Message: Slack Test
 
 Notes: Update
+
+#### **Ixel Castro Richard [2023-05-17T14:36:58.090Z]** 
+
+Message: Ese es un channel privado que cree para eso
+
+Notes: Update
