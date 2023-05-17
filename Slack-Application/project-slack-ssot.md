@@ -425,6 +425,12 @@ Thank you very much :blue_heart:
 
 Notes: Sent through IOS
 
+#### **Ixel Castro Richard [2023-05-17T00:45:28.929Z]** 
+
+Message: Slack Test
+
+Notes: Update
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
