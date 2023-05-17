@@ -463,6 +463,16 @@ Message: GM! Sorry I couldn't  join:disappointed:
 
 Notes: QA Channel testing3
 
+#### **Kafay Ng [2023-05-17T15:04:22.841Z]** 
+
+Message: Hello everyone, I hope you're having a good Tuesday :heart_hands::skin-tone-2:
+I wanted to let you know that we have started collecting money for the materials for the volunteer activity :waving_white_flag:
+So far, we have gathered *21,000 colones* :cry: *but we need to reach 100,000 colones.* If you would like to contribute, please make a SINPE to 8765-4392 with your name and the word "volunteer," for example, "Montse-volunteer."
+
+Thank you for your support :blue_heart:
+
+Notes: Announcement made!
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
