@@ -52,6 +52,12 @@ When required add an architecture diagram of the project here.
 
 log of requirements changes
 
+#### **Ixel Castro Richard [2023-05-17T17:13:18.910Z]** 
+
+Message: Ese sí me funcionó, gracias
+
+Notes: New channel message
+
 ## Technical
 
 log of technical decisions
