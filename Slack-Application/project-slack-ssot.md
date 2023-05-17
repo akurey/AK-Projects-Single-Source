@@ -519,6 +519,12 @@ Message: Slack Test
 
 Notes: Update
 
+#### **Ixel Castro Richard [2023-05-17T15:29:23.666Z]** 
+
+Message: Listo, también le faltó un permiso al ambiente de QA para escribir a channels
+
+Notes: Update
+
 ## Notes
 
 log of project notes 
