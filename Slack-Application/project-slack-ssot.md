@@ -60,6 +60,12 @@ log of technical decisions
 
 log of decisions reducing or adding time to the scope
 
+#### **Ixel Castro Richard [2023-05-17T15:56:44.112Z]** 
+
+Message: Me avisas
+
+Notes: Branch Test
+
 ## Notes
 
 log of project notes
