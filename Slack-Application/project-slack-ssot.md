@@ -489,6 +489,12 @@ Message: Sip, desde mobile debería de funcionar
 
 Notes: Test new form
 
+#### **Rodrigo Nunez [2023-05-17T20:17:25.783Z]** 
+
+Message: me gustaría que veas un videito que hizo fabri hace tiempo, tal vez no aplica directamente a vos pero velo pues si el día de mañana ves que alguién pifia mucho a nivel de git y control de versiones o tiene que aprender o algo así, lo pongas a ver este video o podas sugerirle algo
+
+Notes: este texto es opcional , este es un demo con joselying
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
