@@ -483,6 +483,12 @@ Thank you for your support :blue_heart:
 
 Notes: Announcement Made!
 
+#### **Kafay Ng [2023-05-17T18:21:58.221Z]** 
+
+Message: Sip, desde mobile debería de funcionar
+
+Notes: Test new form
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
