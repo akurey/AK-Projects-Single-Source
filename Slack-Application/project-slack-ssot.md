@@ -58,6 +58,12 @@ Message: Ese sí me funcionó, gracias
 
 Notes: New channel message
 
+#### **Ixel Castro Richard [2023-05-17T17:29:50.963Z]** 
+
+Message: Este
+
+Notes: Test Notifications
+
 ## Technical
 
 log of technical decisions
