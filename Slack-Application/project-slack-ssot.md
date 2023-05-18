@@ -495,6 +495,12 @@ Message: me gustaría que veas un videito que hizo fabri hace tiempo, tal vez no
 
 Notes: este texto es opcional , este es un demo con joselying
 
+#### **Kafay Ng [2023-05-18T16:44:37.397Z]** 
+
+Message: Miércoles de couture :sparkles: :fried_egg: :sparkles: 
+
+Notes: Y ahora?
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
