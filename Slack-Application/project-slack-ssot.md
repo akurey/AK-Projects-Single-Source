@@ -1,6 +1,13 @@
 # Project Title
 Mention here the name of the company owning the project and the link to their website.
 
+#### **Kafay Ng [2023-05-18T17:45:18.992Z]** 
+
+Message: Miércoles de couture :sparkles: :fried_egg: :sparkles: 
+
+
+[IMG_9036.jpg](https://api.slack.com/img/blocks/bkb_template_images/approvalsNewDevice.png)
+
 ## Summary and Scope
 
 [Add a brief summary of the project and its scope here.]
