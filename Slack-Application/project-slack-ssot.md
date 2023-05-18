@@ -96,6 +96,11 @@ Message: Ok ok
 
 Notes: Update Test
 
+#### **Ixel Castro Richard [2023-05-18T18:25:27.128Z]** 
+Notes: Image test
+
+[image.png](https://files.slack.com/files-pri/T2DPLE8AY-F058667CNRK/image.png)
+
 ## Notes
 
 log of project notes
