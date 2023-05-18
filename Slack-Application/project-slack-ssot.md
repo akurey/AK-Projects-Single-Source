@@ -219,6 +219,14 @@ Message: Miércoles de couture :sparkles: :fried_egg: :sparkles:
 
 ![IMG_9036.jpg](https://files.slack.com/files-pri/T2DPLE8AY-F057T158L6B/img_9036.jpg)
 
+#### **Kafay Ng [2023-05-18T17:53:39.725Z]** 
+
+Message: Miércoles de couture :sparkles: :fried_egg: :sparkles: 
+
+Notes: Test
+
+[IMG_9036.jpg](https://files.slack.com/files-pri/T2DPLE8AY-F057T158L6B/img_9036.jpg)
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
