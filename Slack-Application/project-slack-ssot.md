@@ -104,3 +104,11 @@ Notes: Image test
 ## Notes
 
 log of project notes
+
+#### **Ixel Castro Richard [2023-05-18T18:27:44.240Z]** 
+
+Message: Ajá, esto
+
+Notes: Image + text test
+
+[image.png](https://files.slack.com/files-pri/T2DPLE8AY-F057UHY9KTR/image.png)
