@@ -90,6 +90,12 @@ Message: Sip, desde mobile debería de funcionar
 
 Notes: Mobile test
 
+#### **Ixel Castro Richard [2023-05-18T14:20:04.353Z]** 
+
+Message: Ok ok
+
+Notes: Update Test
+
 ## Notes
 
 log of project notes
