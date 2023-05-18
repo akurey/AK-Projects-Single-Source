@@ -501,6 +501,14 @@ Message: Miércoles de couture :sparkles: :fried_egg: :sparkles:
 
 Notes: Y ahora?
 
+#### **Kafay Ng [2023-05-18T16:46:58.679Z]** 
+
+Message: Voy de una molestando.
+despues de instalar el Backup de la base de dato al hacer click en el nombre de la base "localhost" para hacer login ,
+la consola me tira este error :thinking_face:  no se si alguno ha visto algo parecido , es de rest_partner
+
+Notes: Este?
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
