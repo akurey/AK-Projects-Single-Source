@@ -233,6 +233,13 @@ Message: Hola :slightly_smiling_face:  sí ya me pongo en contacto con Marvin
 
 Notes: Rampup Marvin
 
+#### **Kafay Ng [2023-06-14T15:56:08.475Z]** 
+
+Message: Es Viernes y Milo (y el tumbler de :akurey: ) lo saben
+
+
+[20230608_072327.jpg](https://files.slack.com/files-pri/T2DPLE8AY-F05BXGNM0UU/20230608_072327.jpg)
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
