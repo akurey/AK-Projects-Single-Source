@@ -240,6 +240,14 @@ Message: Es Viernes y Milo (y el tumbler de :akurey: ) lo saben
 
 [20230608_072327.jpg](https://files.slack.com/files-pri/T2DPLE8AY-F05BXGNM0UU/20230608_072327.jpg)
 
+#### **Kafay Ng [2023-06-14T15:57:25.437Z]** 
+
+Message: Es Viernes y Milo (y el tumbler de :akurey: ) lo saben
+
+Notes: Mensaje Global Notes
+
+[20230608_072327.jpg](https://files.slack.com/files-pri/T2DPLE8AY-F05BXGNM0UU/20230608_072327.jpg)
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
