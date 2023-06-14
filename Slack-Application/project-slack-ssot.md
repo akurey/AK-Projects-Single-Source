@@ -227,6 +227,12 @@ Notes: Test
 
 [IMG_9036.jpg](https://files.slack.com/files-pri/T2DPLE8AY-F057T158L6B/img_9036.jpg)
 
+#### **Kafay Ng [2023-06-14T15:04:26.410Z]** 
+
+Message: Hola :slightly_smiling_face:  sí ya me pongo en contacto con Marvin
+
+Notes: Rampup Marvin
+
 ## Scope
 
 log of decisions reducing or adding time to the scope
