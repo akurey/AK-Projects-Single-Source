@@ -79,6 +79,19 @@ Message: Hello hello. Are you ready to have fun tomorrow? :partyparrot: We have 
 
 Notes: Update
 
+#### **Soledad Kopper [2023-07-03T16:19:39.771Z]** 
+
+Message: en otros temas para abrir la discusión:
+
+1. no quedará más tuanis el formato si es MD en lugar de HTML, si no, si dejamos HTML si metamole un poquito de design
+2. [Last updated by: 2023-06-14, at: 2023-06-14], ese dato creo q el by sale male, no sale el autor
+3. Audits no lo hagas con tablas Marvin, mejor hacelo como lo tenia Kafay antes pues los notes pueden ser un texto grande, pones como un title que diga la fecha hora primero, request type, subtype, usuario, status y luego viene el body grande que serian los notes
+con respecto a los notes, puf tiene el mensaje que podria venir marcado de slack y un aditional notes, estarían ambos mezclados en notes? solo pregunto no es que haya que separarlos, lo importante es el contenido. Solo que como veo un solo notes, no quisiera tener dos rows por el mismo evento.
+
+lo otro para estar claro, los audits de un proyecto, cuando se quiere hacer este display, vienen todos los audits? si si repasemos un toque los tipos y subtipos por aquello de aque alguno no tenga que salir para hacerle filter?
+
+Notes: dfhghjkfjkgh
+
 ## Technical
 
 #### **Kafay Ng [2023-05-11T19:23:17.308Z]** 
